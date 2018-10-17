@@ -1,5 +1,5 @@
 # Example
-An example README file for the Git Lesson of EMBL Software Course
+two apples project for the Git Lesson of EMBL Software Course
 Correction I
 
 Quik Markdown Overview
